@@ -4,8 +4,8 @@
 
 - 💬 Ask me about my background:
   - MSc Artificial Intelligence at the University of St Andrews (2019-2020)
-  - BSc Computer Science (with First-class Honours) graduate from the University of Bath (2015-2019)
-  - Former Software Engineer Intern at Scuderia Alpha Tauri F1 Team (2017-2018)
+  - BSc Computer Science graduate (with First-class Honours) from the University of Bath (2015-2019)
+  - Former Software Engineer Intern at Scuderia Toro Rosso F1 Team (2017-2018)
   
 - 📫 How to reach me:
   - [Website](http://www.adam.jaamour.com/)
