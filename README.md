@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! 🖖  [![HitCount](http://hits.dwyl.com/Adamouization/Adamouization.svg)](http://hits.dwyl.com/Adamouization/Adamouization)
 
 - 🔭 I’m currently working on my Masters dissertation: *Breast Cancer Detection using Deep Learning Techniques*
 
