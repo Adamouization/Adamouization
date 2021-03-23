@@ -7,12 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact" />
 </div>
 
-- 🔭 I’m currently working on my Masters dissertation: *Breast Cancer Detection using Deep Learning Techniques*
+- 🔭 I’m currently a data scientist at NewDay in London.
 
 - 💬 Ask me about my background and experiences:
+  - Specialist, Data Science at NewDay (2021-present)
   - MSc Artificial Intelligence at the University of St Andrews (2019-2020)
-  - BSc Computer Science graduate (with First-class Honours) from the University of Bath (2015-2019)
   - Former Software Engineer Intern at Scuderia Toro Rosso F1 Team (2017-2018)
+  - BSc Computer Science graduate (with First-class Honours) from the University of Bath (2015-2019)
   
 - 📫 How to reach me:
   - [Website](http://www.adam.jaamour.com/)
