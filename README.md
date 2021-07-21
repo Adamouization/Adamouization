@@ -1,13 +1,14 @@
-### Hello! 🖖  [![HitCount](http://hits.dwyl.com/Adamouization/Adamouization.svg)](http://hits.dwyl.com/Adamouization/Adamouization) 
+# Hello there! 🖖 ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization)
+
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Adamouization&count_private=true&include_all_commits=true&show_icons=true&show_owner=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact" />
 </div>
 
-- 🔭 I’m currently a data scientist at NewDay in London.
+- 🔭 I’m currently a data scientist at NewDay in London (UK).
 
 - 💬 Ask me about my background and experiences:
   - Specialist, Data Science at NewDay (2021-present)
