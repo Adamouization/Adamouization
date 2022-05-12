@@ -1,4 +1,4 @@
-# Hello there! 🖖 ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization)
+# Hello there, welcome to my profile! 🖖 ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization)
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -8,15 +8,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact" />
 </div>
 
-- 🔭 I’m currently a data scientist at NewDay in London (UK).
+- 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk, fraud detection and collections, while maximising performance gains and favouring explainability and stability.
 
 - 💬 Ask me about my background and experiences:
-  - Specialist, Data Science at NewDay (2021-present)
-  - MSc Artificial Intelligence at the University of St Andrews (2019-2020)
-  - Former Software Engineer Intern at Scuderia Toro Rosso F1 Team (2017-2018)
-  - BSc Computer Science graduate (with First-class Honours) from the University of Bath (2015-2019)
+  - Specialist, Data Science at [NewDay](https://www.newday.co.uk/) _(2021-present)_
+  - MSc Artificial Intelligence graduate (with Dean's List Award and Distinction) at the [University of St Andrews](https://www.st-andrews.ac.uk/) _(2019-2020)_
+  - Former Software Engineer Intern at [Scuderia Rosso Formula 1 Team](https://scuderia.alphatauri.com/en/) (nowadays renamed to Alpha Tauri) _(2017-2018)_
+  - BSc Computer Science graduate (with First-class Honours) from the [University of Bath](https://www.bath.ac.uk/) _(2015-2019)_
   
 - 📫 How to reach me:
+  - [LinkTree](https://linktr.ee/adamouization)
   - [Website](http://www.adam.jaamour.com/)
   - [LinkedIn](https://www.linkedin.com/in/adamjaamour/)
   
