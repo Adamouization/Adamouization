@@ -1,4 +1,4 @@
-# Hello there, welcome to my profile! 🖖 ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization)
+# Hello there, welcome to my profile! 🖖 ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
