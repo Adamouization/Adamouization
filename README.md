@@ -23,7 +23,15 @@
 
 ## StackOverflow
 
-in progress ...
+[![Adam Jaamour's's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5609328?theme=dark)](https://stackoverflow.com/users/5609328/adam-jaamour?tab=profile)
+
+<a href="https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/5609328">
+  <img
+       src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/5609328?theme=dark"
+       alt="user:5609328's SO ranking for python"
+       height="25px"
+   >
+</a>
   
 ## Leetcode
 
