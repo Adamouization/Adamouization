@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact&&langs_count=8&theme=chartreuse-dark&hide=jupyter+notebook,scss,less,perl" />
 </div>
 
+![Adam's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adamouization&theme=chartreuse-dark&hide_border=False&radius=16)
+
 ## About me
 
 - 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk, fraud detection and collections, while maximising performance gains and favouring explainability and stability.
@@ -23,4 +25,7 @@
   - [LinkTree](https://linktr.ee/adamouization)
   - [Website](http://www.adam.jaamour.com/)
   - [LinkedIn](https://www.linkedin.com/in/adamjaamour/)
- 
+  
+  ## Leetcode
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/adamouization?theme=dark&border=2&radius=20)
