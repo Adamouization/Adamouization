@@ -5,8 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7&margin-w=10&no-bg=true&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Adamouization&count_private=true&include_all_commits=true&show_icons=true&show_owner=false&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact&&langs_count=8&theme=chartreuse-dark&hide=jupyter+notebook,scss,less,perl" />
+  <img height="170" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adamouization&count_private=true&include_all_commits=true&show_icons=true&show_owner=false&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adamouization&layout=compact&&langs_count=8&theme=chartreuse-dark&hide=jupyter+notebook,scss,less,perl" />
 </div>
 
 [![Adam's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adamouization&theme=chartreuse-dark&hide_border=False&radius=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
