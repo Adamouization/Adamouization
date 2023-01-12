@@ -9,7 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamouization&layout=compact&&langs_count=8&theme=chartreuse-dark&hide=jupyter+notebook,scss,less,perl" />
 </div>
 
-![Adam's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adamouization&theme=chartreuse-dark&hide_border=False&radius=16)
+[![Adam's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adamouization&theme=chartreuse-dark&hide_border=False&radius=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## About me
 
