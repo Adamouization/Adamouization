@@ -1,4 +1,8 @@
-# Adam Jaamour ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
+# Adam Jaamour [![Profile Views badge](https://hits.sh/github.com/Adamouization.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) [![Hits](https://hits.sh/github.com/Adamouization.svg?view=today-total&label=views%20today&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
+
+<!-- From HITS: 1049 views  -->
+<!-- From visitor-badge: 1800 views -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Adamouization) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=03C812&vCenter=true&width=500&lines=Data+Scientist.;Software+Engineer.;Computer+Scientist.;Machine+Learning+Engineer.;Artificial+Intelligence.)](https://git.io/typing-svg)
 
