@@ -1,4 +1,4 @@
-# Adam Jaamour [![Profile Views badge](https://hits.sh/github.com/Adamouization.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) [![Hits](https://hits.sh/github.com/Adamouization.svg?view=today-total&label=views%20today&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
+# Adam Jaamour [![Profile Views badge](https://hits.sh/github.com/Adamouization.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) [![Hits](https://hits.sh/github.com/Adamouization.svg?view=today-total&label=views%20today&extraCount=2848&color=007ec6)](https://hits.sh/github.com/Adamouization/) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
 
 <!-- From HITS: 1049 views  -->
 <!-- From visitor-badge: 1800 views -->
