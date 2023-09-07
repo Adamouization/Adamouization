@@ -1,4 +1,4 @@
-# Adam Jaamour [![Profile Views badge](https://hits.sh/github.com/Adamouization.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) [![Hits](https://hits.sh/github.com/Adamouization.svg?view=today-total&label=views%20today&extraCount=2848&color=007ec6)](https://hits.sh/github.com/Adamouization/) ![GitHub followers](https://img.shields.io/github/followers/Adamouization) ![GitHub User's stars](https://img.shields.io/github/stars/Adamouization)
+# Adam Jaamour [![Profile Views badge](https://hits.sh/github.com/Adamouization.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Adamouization/) [![Hits](https://hits.sh/github.com/Adamouization.svg?view=today-total&label=views%20today&extraCount=2848&color=007ec6)](https://hits.sh/github.com/Adamouization/) ![GitHub Followers](https://img.shields.io/github/followers/Adamouization) ![GitHub Stars Earned](https://img.shields.io/github/stars/Adamouization)
 
 <!-- From HITS: 1049 views  -->
 <!-- From visitor-badge: 1800 views -->
@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=03C812&vCenter=true&width=500&lines=Data+Scientist.;Software+Engineer.;Computer+Scientist.;Machine+Learning+Engineer.;Artificial+Intelligence.)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=7&margin-w=10&no-bg=true&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adamouization&column=8&margin-w=10&no-bg=true&theme=matrix&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adamouization&count_private=true&include_all_commits=true&show_icons=true&show_owner=false&theme=chartreuse-dark" />
@@ -18,7 +18,7 @@
 
 ## About me
 
-- 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk customer underwriting/management, fraud detection and collections, while maximising performance gains and favouring explainability and stability.
+- 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk customer underwriting/management, fraud detection and collections, while maximising performance gains and favouring explainability and stability. I am also actively working on side projects, encompassing topics such as generative AI, video game development and web development.
 
 - 💬 Ask me about my background and experiences:
   - Specialist, Data Science at [NewDay](https://www.newday.co.uk/) _(2021-present)_
@@ -37,12 +37,14 @@
        height="25px"
    >
 </a>
-  
+
+<br>
+
 ## Leetcode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adamouization?theme=dark&border=2&radius=20)
 
-## Contact me
+## Find & Contact me
 
 <a href="http://www.adam.jaamour.com/">
   <img src="https://img.shields.io/badge/Portfolio%20Website-blueviolet?style=for-the-badge&logo=PyG&logoColor=white" alt="Linktree">
