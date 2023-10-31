@@ -20,7 +20,8 @@
 - 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk customer underwriting/management, fraud detection and collections, while maximising performance gains and favouring explainability and stability. I am also actively working on side projects, encompassing topics such as generative AI, video game development and web development.
 
 - 💬 Ask me about my background and experiences:
-  - Specialist, Data Science at [NewDay](https://www.newday.co.uk/) _(2021-present)_
+  - Applied Data Scientist at [causaLens](https://causalens.com/) _(2023-present)_
+  - Specialist, Data Science at [NewDay](https://www.newday.co.uk/) _(2021-2023)_
   - MSc Artificial Intelligence graduate (with Dean's List Award and Distinction) at the [University of St Andrews](https://www.st-andrews.ac.uk/) _(2019-2020)_
   - Former Software Engineer Intern at [Scuderia Rosso Formula 1 Team](https://scuderia.alphatauri.com/en/) (nowadays renamed to Alpha Tauri) _(2017-2018)_
   - BSc Computer Science graduate (with First-class Honours) from the [University of Bath](https://www.bath.ac.uk/) _(2015-2019)_
