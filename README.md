@@ -17,7 +17,7 @@
 
 ## About me
 
-- 🔭 I’m currently working as a data scientist at NewDay in London (UK). My main focus is to develop machine learning models applied in credit risk customer underwriting/management, fraud detection and collections, while maximising performance gains and favouring explainability and stability. I am also actively working on side projects, encompassing topics such as generative AI, video game development and web development.
+- 🔭 I am an Applied Data Scientist at causaLens, on the path to revolutionise the world of AI by stepping away from traditional Correlation Machine Learning and focusing on causal AI. Previously, I worked as a Data Scientist at NewDay developing ML models for credit decisioning. I completed my Artificial Intelligence Master’s degree from the University of St Andrews, during which I earned the all-time top grade in the Machine Learning module with a 99% average and graduated with the Dean’s List Award. Before my Master’s, I graduated from the University of Bath with a First-Class Honours degree in Computer Science, which included a 13-month placement as a software engineer with the Formula 1 team Scuderia Toro Rosso (today known as Scuderia Alpha Tauri). I am also actively working on side projects, encompassing topics such as generative AI, video game development and web development.
 
 - 💬 Ask me about my background and experiences:
   - Applied Data Scientist at [causaLens](https://causalens.com/) _(2023-present)_
