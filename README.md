@@ -136,7 +136,7 @@ StackOverflow              |  StackExchange
 
 ## Find & Contact me
 
-<a href="http://www.adam.jaamour.com/">
+<a href="https://adam.jaamour.com/">
   <img src="https://img.shields.io/badge/Portfolio%20Website-blueviolet?style=for-the-badge&logo=PyG&logoColor=white" alt="Linktree">
 </a>
 
