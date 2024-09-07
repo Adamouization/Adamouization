@@ -20,11 +20,11 @@
 - 🔭 I am an *Senior Applied Data Scientist* at causaLens, on the path to revolutionise the world of AI by stepping away from traditional Correlation Machine Learning and focusing on causal AI. Previously, I worked as a Data Scientist at NewDay developing ML models for credit decisioning. I completed my Artificial Intelligence Master’s degree from the University of St Andrews, during which I earned the all-time top grade in the Machine Learning module with a 99% average and graduated with the Dean’s List Award. Before my Master’s, I graduated from the University of Bath with a First-Class Honours degree in Computer Science, which included a 13-month placement as a software engineer with the Formula 1 team Scuderia Toro Rosso (today known as Scuderia Alpha Tauri). I am also actively working on side projects, encompassing topics such as generative AI, video game development and web development.
 
 - 💬 Ask me about my background and experiences:
-  - Sernior Applied Data Scientist at [causaLens](https://causalens.com/) _(2023-present)_
+  - Senior Applied Data Scientist at [causaLens](https://causalens.com/) _(2023-present)_
   - Data Scientist at [NewDay](https://www.newday.co.uk/) _(2021-2023)_
-  - MSc Artificial Intelligence graduate (with Dean's List Award and Distinction) at the [University of St Andrews](https://www.st-andrews.ac.uk/) _(2019-2020)_
-  - Former Software Engineer Intern at [Scuderia Rosso Formula 1 Team](https://scuderia.alphatauri.com/en/) (nowadays renamed to Alpha Tauri) _(2017-2018)_
-  - BSc Computer Science graduate (with First-class Honours) from the [University of Bath](https://www.bath.ac.uk/) _(2015-2019)_
+  - Master's in Artificial Intelligence (achieved Distinction Rating and awarded Dean's List Award) at the [University of St Andrews](https://www.st-andrews.ac.uk/) _(2019-2020)_
+  - Software Engineer Intern at [Scuderia Rosso Formula 1 Team](https://scuderia.alphatauri.com/en/) (nowadays known as [VCARB](https://www.visacashapprb.com/en/)) _(2017-2018)_
+  - Bachelor's in Computer Science (graduated with First-class Honours) from the [University of Bath](https://www.bath.ac.uk/) _(2015-2019)_
 
 ## My Stack: Programming Languages, Frameworks & Tools I use
 
