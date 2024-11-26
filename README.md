@@ -130,10 +130,6 @@ StackOverflow              |  StackExchange
 
 <br>
 
-## Leetcode
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/adamouization?theme=dark&border=2&radius=20)
-
 ## Find & Contact me
 
 <a href="https://adam.jaamour.com/">
